@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Final_Task\bin\Debug\net8.0\Final_Task.exe
+C:\Users\HP\source\repos\Final_Task\bin\Debug\net8.0\Final_Task.deps.json
+C:\Users\HP\source\repos\Final_Task\bin\Debug\net8.0\Final_Task.runtimeconfig.json
+C:\Users\HP\source\repos\Final_Task\bin\Debug\net8.0\Final_Task.dll
+C:\Users\HP\source\repos\Final_Task\bin\Debug\net8.0\Final_Task.pdb
+C:\Users\HP\source\repos\Final_Task\obj\Debug\net8.0\Final_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Final_Task\obj\Debug\net8.0\Final_Task.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Final_Task\obj\Debug\net8.0\Final_Task.AssemblyInfo.cs
+C:\Users\HP\source\repos\Final_Task\obj\Debug\net8.0\Final_Task.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Final_Task\obj\Debug\net8.0\Final_Task.dll
+C:\Users\HP\source\repos\Final_Task\obj\Debug\net8.0\refint\Final_Task.dll
+C:\Users\HP\source\repos\Final_Task\obj\Debug\net8.0\Final_Task.pdb
+C:\Users\HP\source\repos\Final_Task\obj\Debug\net8.0\Final_Task.genruntimeconfig.cache
+C:\Users\HP\source\repos\Final_Task\obj\Debug\net8.0\ref\Final_Task.dll
